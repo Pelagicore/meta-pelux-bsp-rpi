@@ -1,9 +1,10 @@
 META-PELUX-BSP-RPI
 ====================
-Yocto layer adding configurations required when building PELUX towards
-Raspberry Pi.
 
-Maintained at https://github.com/Pelagicore/meta-pelux-bsp-rpi
+DEPRECATED
+----------
+NOTE: This layer is deprecated, its contents can be found in
+[meta-pelux](https://github.com/pelagicore/meta-pelux) nowadays.
 
 License and Copyright
 ---------------------
